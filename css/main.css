@@ -1,0 +1,30 @@
+#quote-section h1 {
+  font-family: "Impact", sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  margin-block: 60px 30px;
+}
+
+#quote-section p {
+  font-family: "Tinos", serif;
+  font-size: 35px;
+  margin-block: 40px 20px;
+}
+
+#quote-section button {
+  width: 250px;
+  height: 90px;
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  background-color: #1abc9c;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+#quote-section button:hover {
+  transform: scale(1.1);
+  background-color: #16a085;
+}
